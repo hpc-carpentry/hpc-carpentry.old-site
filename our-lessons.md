@@ -9,6 +9,9 @@ Topics have been chosen primarily on their ease-of-use and utility
 (i.e. students should be able to finish the lesson and 
 immediately go out and do something useful with it). 
 
+> We welcome all contributions, in particular adaptations of our [Intro to HPC lesson](https://hpc-carpentry.github.io/hpc-intro/)
+> for other schedulers besides SLURM.
+
 ---------------------------------------
 
 ## Intro to HPC
@@ -16,20 +19,32 @@ immediately go out and do something useful with it).
 **[Lesson website](https://hpc-carpentry.github.io/hpc-intro/)** / [Lesson repository](https://github.com/hpc-carpentry/hpc-intro/)
 
 This lesson focuses on teaching the basics of using a computing cluster, 
-including the basics of bash, accessing installed software, and submitting jobs.
+including accessing installed software and submitting jobs.
 Students should be able to understand and use an HPC system at a basic level after the workshop.
 The materials focus on SLURM as a scheduler, 
 though the concepts taught are generally applicable to all traditional HPC systems.
 Topics covered include the following:
 
 * Logging onto a cluster using SSH
-* Basics of using the bash command line
-* Editing files with `nano`
-* Writing and running shell scripts
 * Environment variables and `$PATH`
 * Loading software modules and compiling basic software packages from the internet
 * Submitting jobs to a scheduler
 * Transferring files to and from a cluster
+
+-------------------------------------------
+
+## Shell on HPC
+
+**[Lesson website](https://hpc-carpentry.github.io/hpc-shell/)** / [Lesson repository](https://github.com/hpc-carpentry/hpc-shell/)
+
+This lesson focuses on teaching the shell skills that are most useful in using 
+a large-scale compute system and is meant to be integrated with the Intro to HPC lesson.  
+Topics covered include the following:
+
+* Logging onto a cluster using SSH
+* Basics of using the bash command line
+* Editing files with `nano`
+* Writing and running shell scripts
 
 -------------------------------------------
 
