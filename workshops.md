@@ -65,4 +65,4 @@ If you choose to use the Chapel Docker image,
 make sure students install [Docker](https://www.docker.com/) before the workshop.
 
 
-[pre-workshop]: google.link
+[pre-workshop]: https://docs.google.com/forms/u/2/d/e/1FAIpQLSeLVRXeK0n2j9dbK9m8JKJnNjeHrACZlHKjcxAfzbnp0-lRaw/viewform
