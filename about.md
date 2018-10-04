@@ -51,6 +51,6 @@ for ongoing announcements and conversation among the community.
 [hpc-carpentry]: https://hpc-carpentry.github.io/
 [carpentries]: https://carpentries.org/
 [carpentries-coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-[pre-workshop]: google.link
-[post-workshp]: google.link
+[pre-workshop]: https://docs.google.com/forms/u/2/d/e/1FAIpQLSeLVRXeK0n2j9dbK9m8JKJnNjeHrACZlHKjcxAfzbnp0-lRaw/viewform
+[post-workshop]: https://docs.google.com/forms/d/e/1FAIpQLSfdwEtYszqkwHY9eWUW_cnn5t0MuVlKK2XDp7jTX1T2k4e7HQ/viewform
 [hpc-list]: https://carpentries.topicbox.com/groups/discuss-hpc
