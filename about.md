@@ -15,7 +15,9 @@ Lessons follow the Carpentries format:
 all teaching is done via live coding, 
 with students following along with the instructor on their own computer.
 No prior experience is required, 
-and the workshop itself requires only a two-day committment from instructors and attendees.  
+and the workshop itself requires only a half day (at minimum) commitment from 
+instructors and attendees, although we recommend running at least day-long or two-day 
+workshops to accommodate the amount of content and respect the pace of learning.  
 Students should be able to leave the workshop and immediately begin working on an HPC system.
 
 ## Using the materials and name
