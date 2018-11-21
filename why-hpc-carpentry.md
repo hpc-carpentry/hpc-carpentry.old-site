@@ -37,7 +37,7 @@ See below for specific examples of what this might look like in different domain
 > to spread the analysis over several dozen cores so it finishes in a few
 > hours.
 
-> ## Physics
+> ## Physics (or many other domains!)
 > 
 > A new PhD student is given a task to select parameters for their
 > simulation.  They need to run a set of calculations on several thousand 
@@ -46,6 +46,15 @@ See below for specific examples of what this might look like in different domain
 > that it would take more than one month to complete the task. 
 > They are told to use local HPC but they are not sure how this would help
 > them.
+
+> ## General Learner Characteristics
+> 
+> * Knowlededgeable in their (non-computational!) domain
+> * Priority is to get their work done, not necessarily to learn about computers
+> * Doesn't know what large scale computing (Cloud? HPC? Grid?) is or why it can help them; may think that programs will automatically run faster on a cluster
+> * Haven't used a shared system before
+> * Are not familiar with many of the terms (threads, cores) or concepts (scheduling) that are key to running on a shared batch system
+> * May have some command line or programming experience, but not necessarily; may have only used GUIs in the past
 
 This type of audience needs an introduction to large-scale computational resources that 
 helps them see how these resources could help them and transform their research, 
