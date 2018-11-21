@@ -15,7 +15,9 @@ Lessons follow the Carpentries format:
 all teaching is done via live coding, 
 with students following along with the instructor on their own computer.
 No prior experience is required, 
-and the workshop itself requires only a two-day committment from instructors and attendees.  
+and the workshop itself requires only a half day (at minimum) commitment from 
+instructors and attendees, although we recommend running at least day-long or two-day 
+workshops to accommodate the amount of content and respect the pace of learning.  
 Students should be able to leave the workshop and immediately begin working on an HPC system.
 
 ## Using the materials and name
@@ -49,6 +51,6 @@ for ongoing announcements and conversation among the community.
 [hpc-carpentry]: https://hpc-carpentry.github.io/
 [carpentries]: https://carpentries.org/
 [carpentries-coc]: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
-[pre-workshop]: google.link
-[post-workshp]: google.link
+[pre-workshop]: https://docs.google.com/forms/u/2/d/e/1FAIpQLSeLVRXeK0n2j9dbK9m8JKJnNjeHrACZlHKjcxAfzbnp0-lRaw/viewform
+[post-workshop]: https://docs.google.com/forms/d/e/1FAIpQLSfdwEtYszqkwHY9eWUW_cnn5t0MuVlKK2XDp7jTX1T2k4e7HQ/viewform
 [hpc-list]: https://carpentries.topicbox.com/groups/discuss-hpc
