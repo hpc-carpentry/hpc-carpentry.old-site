@@ -14,6 +14,12 @@ See below for specific examples of what this might look like in different domain
 
 ## Learner Profiles
 
+Here we've borrowed from the concept of "user profiles" or 
+"[user modeling][user-modeling]" in the world of user interface design to 
+create "learner profiles" of a potential learner at an 
+HPC Carpentry workshop.  These profiles describe some of a learner's background 
+experience, skills, motivation, and goals.  
+
 > ## Environmental Biology
 > 
 > Y. is an environmental biologist that uses DNA signatures obtained from
@@ -93,4 +99,4 @@ Software Carpentry's lessons are more generally applicable
 introductory programming materials that do not have an HPC component.
 
 [swc]: https://software-carpentry.org/
-
+[user-modeling]: https://en.wikipedia.org/wiki/User_modeling
