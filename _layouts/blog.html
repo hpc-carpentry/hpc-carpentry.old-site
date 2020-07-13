@@ -1,0 +1,35 @@
+---
+layout: base
+title: "Blog Archive"
+permalink: "blog/"
+---
+
+
+<div id="blog-index" class="row" >
+  <div class="medium-8 columns t30">
+    <h1>{{ page.title }}</h1>
+
+    {% assign counter = 1 %}
+    {% for post in site.posts limit:1000 %}
+
+    <h4><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"> {{ post.title }} </a> </h4>
+    <p>{{ post.teaser }}</p>
+
+    <div class="blog-meta">
+
+      <p>
+	{% if post.date %}
+	<time class="icon-calendar pr20" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished"> {{ post.date | date: "%Y-%m-%d" }}</time>
+	{% endif %}
+
+	<span class="icon-edit">
+	  {% for author in post.authors %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="pr20">{{ author }} </span></span>{% endfor %}
+	</span>
+      </p>
+
+    </div>
+
+    {% assign counter=counter | plus:1 %}
+    {% endfor %}
+  </div>
+</div>
