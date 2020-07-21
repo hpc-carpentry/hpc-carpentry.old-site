@@ -58,7 +58,7 @@ OR OTHER DEALINGS IN THE SOFTWARE.
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-    max-width: 900px;
+    max-width: 1600px;
     max-height: 100%;
 }
 #lightbox .videoWrapperContainer .videoWrapper {
