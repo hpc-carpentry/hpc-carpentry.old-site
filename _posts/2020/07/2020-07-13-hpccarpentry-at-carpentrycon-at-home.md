@@ -11,7 +11,7 @@ Some of the HPC Carpentry team are very keen to bring HPC Carpentry into the car
 incubator project
 ([1]) and eventually become a member of the Carpentries (or the Carpentry Lab ([2]) at least). To start
 this, they've proposed a breakout
-session for carpentrycon at home ([3]) which will take place sometime in the first weeks of July,
+session for carpentrycon at home ([3]) which will take place on July 20,
 2020.
 
 Besides sampling the community for expectations and hopes, we would love to propose a way forward
