@@ -107,6 +107,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 var name = split[0];
                 element.setAttribute('title',name);
             }
+            if(element.classList.contains('lightbox-lesson')) {
+                element.setAttribute('data-id', url);
+            }
             if(is_lesson(url) && !element.classList.contains('no-lightbox')) {
                 element.setAttribute('data-id', url);
                 element.classList.add('lightbox-lesson');
