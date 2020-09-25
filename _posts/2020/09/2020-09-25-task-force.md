@@ -15,18 +15,18 @@ the issues which stand between the current state of the lesson,
 and incorporating our material into the mainstream Carpentries
 infrastructure, though the [incubator][1] mechanism
 
-An [iniital meeting][2] was held on Sept. 16, 2020.
+An [initial meeting][2] was held on Sept. 16, 2020.
 
 Moving forward, the plan is to coordinate several co-working
 sessions where volunteers can identify and clear remaining
 issues with the various repositories, and also to have 
-higher-level coordation meetings, approximately monthly,
+higher-level coordination meetings, approximately monthly,
 where issue priorities can be discussed, and tasks requiring
 higher-level coordination can be undertaken.
 
 Discussion and coordination takes place on the 
-HPC Carpentry [slack channel][3], the Carpentry-HPC
-[mailing list][4], and through issues on the [coodination][5]
+HPC Carpentry [Slack channel][3], The Carpentries' HPC
+[mailing list][4], and through issues on the [coordination][5]
 repository on Github.
 
 All are welcome!
