@@ -3344,3 +3344,29 @@
 			}
 
 		}
+
+/* Deprecation ribbon */
+	.c-ribbon {
+  		position: fixed;
+  		display: block;
+  		font: bold 0.75rem "Poppins", Arial, sans-serif, "Source Sans Pro";
+  		background: #ffa;
+  		text-decoration: none;
+  		padding: 5px;
+  		text-align: center;
+  		width: 400px;
+  		z-index: 100;
+	}
+	.c-ribbon:hover {
+  		box-shadow: 5px 5px 5px #141124;
+	}
+	.c-ribbon.c-ribbon--left {
+  		left: -133.3333333333px;
+	}
+	.c-ribbon.c-ribbon--top {
+  		top: 66.6666666667px;
+	}
+	.c-ribbon.c-ribbon--top.c-ribbon--left {
+  		-webkit-transform: rotate(-45deg);
+          	transform: rotate(-45deg);
+	}	
