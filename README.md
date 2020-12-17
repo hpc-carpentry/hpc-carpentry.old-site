@@ -1,5 +1,7 @@
 # Website of HPC Carpentry
 
+**THIS REPO IS DEPRECATED, PLEASE USE https://github.com/hpc-carpentry/hpc-carpentry.org**
+
 ## Building it
 
 This webiste uses jekyll to generate html5 webpages. To build it, do:
